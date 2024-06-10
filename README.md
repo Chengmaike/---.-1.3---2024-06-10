@@ -1,6 +1,6 @@
 ## Вся Лабораторная работа - МайкэЧ .ИВТ1.3 - 2024,06,10
 
-  ###
+  ####
    Лабораторная работа 1-2. Построение бинарного дерева (рекурсия): [https://replit.com/join/yllicutwrt-chengmaike62]
    
    Лабораторная работа 4. Построение бинарного дерева (рекурсия): [https://replit.com/join/kveztfitql-chengmaike62]
@@ -20,4 +20,4 @@
    
    Выступления на тему построение GUI на Python и менеджеры зависимостей: [https://colab.research.google.com/drive/1vP3dXX2ufvcSJs5wTh5sP1rdzHGZyHaf?usp=sharing]
 
-   ###
+   ####
